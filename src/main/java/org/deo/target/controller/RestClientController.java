@@ -1,11 +1,6 @@
 package org.deo.target.controller;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import org.apache.log4j.Logger;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
